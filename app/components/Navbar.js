@@ -19,6 +19,8 @@ const Navbar = () => {
             <Link href="/">
               <span className="text-white text-xl font-bold">Amazing Navbar</span>
             </Link>
+
+            
           </div>
           <div className="hidden md:flex items-center space-x-4">
             <NavLink href="/">Home</NavLink>
