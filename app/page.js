@@ -12,6 +12,8 @@ export default function Home() {
         <p className="text-lg text-gray-800 mt-4">This is just a simple example, but you can expand on it to create your amazing website!</p>
       </div>
       <Footer/>
+
+      
     </div>
   );
 }
